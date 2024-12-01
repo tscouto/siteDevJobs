@@ -1,0 +1,36 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Logs
+*.log
+*.log.*
+
+# Diretórios de build e output
+dist/
+build/
+coverage/
+
+# Arquivos de configuração do sistema operacional
+.DS_Store
+
+# Arquivos de IDEs (Visual Studio Code, IntelliJ, etc)
+.vscode/
+.idea/
+
+# Ambiente de produção
+.env
+
+# Banco de dados SQLite
+*.sqlite
+*.db
+
+# Arquivos gerados pelo sistema operacional
+Thumbs.db
+Desktop.ini
+
+# Outros arquivos temporários ou de cache
+*.swp
+*.swo
